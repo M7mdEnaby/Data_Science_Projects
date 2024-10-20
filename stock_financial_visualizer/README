@@ -1,0 +1,18 @@
+# Tesla Stock and Revenue Visualization
+
+This project retrieves historical stock price data for Tesla (TSLA) and its quarterly revenue data, then visualizes this information using interactive plots from Plotly. The visualizations include the historical share price and revenue trends, helping to analyze the financial performance of Tesla.
+
+## Requirements
+
+- Python 3.x
+- `yfinance`
+- `pandas`
+- `requests`
+- `beautifulsoup4`
+- `plotly`
+
+You can install the required libraries using pip:
+
+```bash
+pip install yfinance pandas requests beautifulsoup4 plotly
+

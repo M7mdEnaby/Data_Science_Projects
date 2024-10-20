@@ -1,0 +1,16 @@
+# Stock Net Income Comparison
+
+This project allows users to compare the net income of two different stocks using their ticker symbols. The net income data is retrieved from Yahoo Finance and visualized with an interactive line chart using Plotly.
+
+## Requirements
+
+- Python 3.x
+- `yfinance`
+- `pandas`
+- `plotly`
+
+You can install the required libraries using pip:
+
+```bash
+pip install yfinance pandas plotly
+

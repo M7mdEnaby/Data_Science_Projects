@@ -1,0 +1,15 @@
+# List Countries GDP
+
+This project retrieves and processes the Gross Domestic Product (GDP) data of the top 10 countries from Wikipedia. It cleans the data and converts GDP values from million USD to billion USD, finally saving the results to a CSV file.
+
+## Requirements
+
+- Python 3.x
+- `numpy`
+- `pandas`
+
+You can install the required libraries using pip:
+
+```bash
+pip install numpy pandas
+

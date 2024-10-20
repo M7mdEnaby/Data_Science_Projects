@@ -1,0 +1,16 @@
+# Candle Stocks
+
+This project utilizes the `yfinance` library to download historical stock data for Microsoft (MSFT) and plots a Japanese candlestick chart using `mplfinance`. The chart visualizes the yearly Open, High, Low, and Close (OHLC) prices for the past 10 years.
+
+## Requirements
+
+- Python 3.x
+- `yfinance`
+- `pandas`
+- `mplfinance`
+
+You can install the required libraries using pip:
+
+```bash
+pip install yfinance pandas mplfinance
+
